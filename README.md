@@ -1,3 +1,5 @@
+<img src="images/bongo-cat-code.gif" align="right" width="219" height="219"/>
+
 - 👋 Hi, I’m @Hex09AF
 - 👀 I’m interested in being a best frontend developer, a best function designer.
 - 🌱 I’m currently learning:

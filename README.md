@@ -9,6 +9,7 @@
   - DSAP (Codeforces, Atcoder, ...)
 - 💞️ I’m looking to collaborate with everyone have the common hobbies
 - 📫 Reach to me by send email to lsqhuy@gmail.com
+- CP summary: https://clist.by/coder/Hex/
 
 <!---
 Hex09AF/Hex09AF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

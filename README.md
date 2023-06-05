@@ -3,10 +3,10 @@
 - 👋 Hi, I’m @Hex09AF
 - 👀 I’m interested in being a best frontend developer, a best function designer.
 - 🌱 I’m currently learning:
-  - ReactJs (NextJs, Redux, Flux)...
-  - Vue.js (Vuex)...
-  - Three.js, React Three Fiber...
-  - DSAP (Codeforces, Atcoder, ...)
+  - ReactJs (NextJs, Redux, Flux)
+  - Vue (Nuxt)
+  - Three.js, React Three Fiber
+  - DSAP (Codeforces, Atcoder)
 - 💞️ I’m looking to collaborate with everyone have the common hobbies
 - 📫 Reach to me by send email to lsqhuy@gmail.com
 - CP summary: https://clist.by/coder/Hex/
